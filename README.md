@@ -85,8 +85,8 @@ The output of the model is two heatmaps: one for picking and one for placing. Th
 ### Instructions
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/LLM-Robotic-Chess-Player.git
-    cd LLM-Robotic-Chess-Player
+    git clone https://github.com/AydinLT00/LLM-Vision-Robotic-Chess-Player.git
+    cd LLM-Vision-Robotic-Chess-Player
     ```
 
 2.  **Set up a virtual environment (recommended):**
