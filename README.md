@@ -118,7 +118,7 @@ The output of the model is two heatmaps: one for picking and one for placing. Th
 
 ## 📖 Project Report
 
-For a detailed explanation of the project's methodology, experiments, and results, please see the full **[Project Report](./report/project_report.pdf)**.
+For a detailed explanation of the project's methodology, experiments, and results, please see the full **[Project Report](./Report/Machine_Learning_Projects.pdf)**.
 
 ---
 
