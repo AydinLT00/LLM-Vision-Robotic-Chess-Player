@@ -10,7 +10,10 @@ This project demonstrates how a Large Language Model (LLM) can be used for high-
 ## **Showcase & Demo**
 
 The LLM was prompted to follow specific opening strategies against a human player.
-Giuoco Piano Opening	London System Opening	CLIPORT Vision-Based Move
+Giuoco Piano Opening	
+London System Opening	
+CLIPORT Vision-Based Move
+
 ![alt text](media/Italian-opening.gif)
 ![alt text](media/london_system.gif)
 ![alt text](media/cliport_demo.gif)
