@@ -49,7 +49,7 @@ CLIPORT (CLIP-Transporter) enables the robot to understand tasks by combining la
 To train CLIPORT for our tasks, we first generated a dataset of 8,000 samples. The process involves creating various scenes, generating text prompts, and recording the correct pick and place coordinates.
 
 <p align="center">
-  <img src="https://i.imgur.com/39l21gX.png" width="80%">
+  <img src="media/CLIPORT Data collection loop.png" width="80%">
 </p>
 *<p align="center">Figure: The automated pipeline for generating training data.</p>*
 
@@ -57,7 +57,7 @@ To train CLIPORT for our tasks, we first generated a dataset of 8,000 samples. T
 CLIPORT is powered by an architecture called TransporterNets, which uses two parallel streams to process visual information and fuse it with text features from a language model (CLIP).
 
 <p align="center">
-  <img src="https://i.imgur.com/6XzW04Z.png" width="90%">
+  <img src="media/CLIPORT Transporter-net architecture.png" width="90%">
 </p>
 *<p align="center">Figure: A high-level view of the CLIPORT model architecture.</p>*
 
@@ -70,7 +70,7 @@ CLIPORT is powered by an architecture called TransporterNets, which uses two par
 The output of the model is two heatmaps: one for picking and one for placing. The brightest spot on each map represents the model's prediction for the best coordinate to perform the action.
 
 <p align="center">
-  <img src="https://i.imgur.com/uR1F54e.png" width="60%">
+  <img src="media/heatmap.png" width="60%">
 </p>
 *<p align="center">Figure: The Pick Heatmap (left) shows where to grab an object, and the Place Heatmap (right) shows where to put it.</p>*
 
