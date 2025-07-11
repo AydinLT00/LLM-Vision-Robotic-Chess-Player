@@ -21,9 +21,9 @@ The LLM successfully executes famous chess openings against a human player based
 ### CLIPORT Vision-Based Task
 This video shows the trained CLIPORT model executing a pick-and-place task based on visual input and a text command.
 
-[![CLIPORT Demo Video](media/cliport_video.gif)](media/CLIPORTIntegration.gif)
-*<p align="center">Click the image to watch the full video demo.</p>*
-
+| Cliport principle | Integration |
+| :---------------: | :---------: |
+|  <img src="media/cliport_video.gif" width="100%">   |  <img src="media/CLIPORTIntegration.gif" width="100%">   |
 
 ---
 
