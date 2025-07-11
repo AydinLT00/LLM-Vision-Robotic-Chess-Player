@@ -124,7 +124,6 @@ For a detailed explanation of the project's methodology, experiments, and result
 
 ## 👥 Acknowledgments
 
-This was completed as a group project for the "AI & Robotics" course at **Politecnico di Milano**.
-
+This project was completed for the "Integrating Bayesian Optimization, Reinforcement Learning & Language Models in Robotics" group project at **Politecnico di Milano**, under the supervision of Prof. Loris Roveda.
 -   **Team:** Mohsen Ghasemi, Aidin Latifi, Shiyuan Liu
 -   **Professor:** Loris Roveda
