@@ -16,12 +16,12 @@ The LLM successfully executes famous chess openings against a human player based
 
 | Giuoco Piano Opening | London System Opening | Nimzowitsch-Larsen Attack |
 | :------------------: | :-------------------: | :-----------------------: |
-|  <img src="media/Italian-opening.gif" width="100%">   |  <img src="media/london_system.gif" width="100%">   |  <img src="media/cliport_demo.gif" width="100%">  |
+|  <img src="media/Italian-opening.gif" width="100%">   |  <img src="media/Londonsystem.gif" width="100%">   |  <img src="media/NimzowitchOpening.gif" width="100%">  |
 
 ### CLIPORT Vision-Based Task
 This video shows the trained CLIPORT model executing a pick-and-place task based on visual input and a text command.
 
-[![CLIPORT Demo Video](https://i.imgur.com/qL3Z5O1.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![CLIPORT Demo Video](media/cliport_video.gif)](media/CLIPORTIntegration.gif)
 *<p align="center">Click the image to watch the full video demo.</p>*
 
 
